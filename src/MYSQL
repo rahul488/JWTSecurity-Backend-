@@ -1,0 +1,7 @@
++------+-------+-----------------+-----------+------------+
+| id   | name  | email           | password  | role       |
++------+-------+-----------------+-----------+------------+
+|    1 | rahul | rahul@gmail.com | rahul7894 | ROLE_ADMIN |
+|    2 | das   | das@gmail.com   | das7894   | ROLE_USER  |
+|    3 | sdey  | dey@gmail.com   | dey1234   | ROLE_USER  |
++------+-------+-----------------+-----------+------------+
